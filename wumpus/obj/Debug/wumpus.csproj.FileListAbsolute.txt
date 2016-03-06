@@ -1,0 +1,26 @@
+D:\Mohib\wumpus\wumpus\bin\Debug\wumpus.exe.config
+D:\Mohib\wumpus\wumpus\bin\Debug\wumpus.exe
+D:\Mohib\wumpus\wumpus\bin\Debug\wumpus.pdb
+D:\Mohib\wumpus\wumpus\obj\Debug\MainWindow.baml
+D:\Mohib\wumpus\wumpus\obj\Debug\MainWindow.g.cs
+D:\Mohib\wumpus\wumpus\obj\Debug\App.g.cs
+D:\Mohib\wumpus\wumpus\obj\Debug\wumpus_MarkupCompile.cache
+D:\Mohib\wumpus\wumpus\obj\Debug\wumpus.g.resources
+D:\Mohib\wumpus\wumpus\obj\Debug\wumpus.Properties.Resources.resources
+D:\Mohib\wumpus\wumpus\obj\Debug\wumpus.csproj.GenerateResource.Cache
+D:\Mohib\wumpus\wumpus\obj\Debug\wumpus.exe
+D:\Mohib\wumpus\wumpus\obj\Debug\wumpus.pdb
+D:\Mohib\wumpus\wumpus\obj\Debug\wumpus.csprojResolveAssemblyReference.cache
+G:\studies\7th sem\ai\wumpus\wumpus\obj\Debug\wumpus.csprojResolveAssemblyReference.cache
+G:\studies\7th sem\ai\wumpus\wumpus\obj\Debug\MainWindow.baml
+G:\studies\7th sem\ai\wumpus\wumpus\obj\Debug\MainWindow.g.cs
+G:\studies\7th sem\ai\wumpus\wumpus\obj\Debug\App.g.cs
+G:\studies\7th sem\ai\wumpus\wumpus\obj\Debug\wumpus_MarkupCompile.cache
+G:\studies\7th sem\ai\wumpus\wumpus\obj\Debug\wumpus.g.resources
+G:\studies\7th sem\ai\wumpus\wumpus\obj\Debug\wumpus.Properties.Resources.resources
+G:\studies\7th sem\ai\wumpus\wumpus\obj\Debug\wumpus.csproj.GenerateResource.Cache
+G:\studies\7th sem\ai\wumpus\wumpus\bin\Debug\wumpus.exe.config
+G:\studies\7th sem\ai\wumpus\wumpus\bin\Debug\wumpus.exe
+G:\studies\7th sem\ai\wumpus\wumpus\bin\Debug\wumpus.pdb
+G:\studies\7th sem\ai\wumpus\wumpus\obj\Debug\wumpus.exe
+G:\studies\7th sem\ai\wumpus\wumpus\obj\Debug\wumpus.pdb
